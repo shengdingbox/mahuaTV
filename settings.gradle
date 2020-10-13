@@ -1,0 +1,2 @@
+include ':app', ':av'
+rootProject.name='vod'
